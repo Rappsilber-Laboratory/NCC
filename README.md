@@ -13,7 +13,7 @@ Scripts for NCC data processing relating to Nakamura et al.
 
 ### Tables
 
-**proteinGroups:** MaxQuant result file, available from our PRIDE repository **XXX**
+**proteinGroups:** MaxQuant result file, available from our PRIDE repository **WILL BE INCLUDED UPON PUBLICATION**
 
 **Fuzzy_table_S1.xlsx:** Table containing interphase chromatin probabilities, from Kustatscher et al. (EMBO J, 2014).
 
